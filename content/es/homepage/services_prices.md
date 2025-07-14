@@ -9,11 +9,7 @@ header_menu: true
 
 Mi tarifa es:
 
-- 30€ la media hora
-
-- 45€ por una hora
-
-- Bono de 5 consultas de media hora por 125€
+- 25 € por una sesión de 40 minutos
 
 Mi objetivo es brindarte el **mejor servicio** a un **precio razonable**.
 Que te recuperes rápidamente y con resultados tangibles.
