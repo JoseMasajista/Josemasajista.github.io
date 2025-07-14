@@ -1,7 +1,7 @@
 ---
 title: "Precios"
 header_menu_title: "Precios"
-navigation_menu_title: "🪙 Precios"
+navigation_menu_title: "💶 Precios"
 weight: 80
 header_menu: true
 ---
